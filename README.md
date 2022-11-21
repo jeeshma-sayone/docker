@@ -26,7 +26,8 @@ To build a Django application is with a Dockerfile in simpler ways, we can creat
 
 Here is an example image of how to create a DockerFile text document in the project root. 
 
-![](/home/sayone/This PC/SayOne Technologies/Works/docker/django_recipe_api/screenshot/docker_file.png)
+![docker_file](https://user-images.githubusercontent.com/109805460/203056815-3f8f80e2-36fa-40a9-a324-0047f8e0391e.png)
+
 
 # Build the Docker Image
 
@@ -35,7 +36,8 @@ To build the Docker Image, you can use the Docker Build command.
     sudo docker build .
 (.) dot will take current working directory. Instead of . we can specify path.
 
-![](/home/sayone/This PC/SayOne Technologies/Works/docker/django_recipe_api/screenshot/docker_eg.png)
+![docker_eg](https://user-images.githubusercontent.com/109805460/203056937-f591b2e9-08ac-42e6-895e-4dc822393325.png)
+
 
 The above image shows the output after running the command. So we got the docker image name after successful build.
 
