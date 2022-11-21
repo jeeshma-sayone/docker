@@ -4,7 +4,7 @@
 
 * [docker](#docker)
 * [Installing Docker on Ubuntu](#installing-docker-on-ubuntu)
-* [Create the Dockerfile (For Python Web Apps & Django)](#create-the-dockerfile--for-python-web-apps--django-)
+* [Create the Dockerfile](#create-the-dockerfile)
 * [Build the Docker Image](#build-the-docker-image)
 * [Run the Docker Container](#run-the-docker-container)
 <!-- TOC -->
