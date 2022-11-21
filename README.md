@@ -4,7 +4,7 @@
 
 * [docker](#docker)
 * [Installing Docker on Ubuntu](#installing-docker-on-ubuntu)
-* [Create the Dockerfile](#create-the-dockerfile)
+* [Create the Dockerfile for Python Web Apps & Django](#create-the-dockerfile-for-python-web-apps--django)
 * [Build the Docker Image](#build-the-docker-image)
 * [Run the Docker Container](#run-the-docker-container)
 <!-- TOC -->
@@ -19,7 +19,7 @@ command:
 
 Run the above command
 
-# Create the Dockerfile (For Python Web Apps & Django)
+# Create the Dockerfile for Python Web Apps & Django
 Converting our Instructions List to a format Docker understand is this simple. 
 
 To build a Django application is with a Dockerfile in simpler ways, we can create a Docker image. It contains everything using a pipeline.
