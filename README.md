@@ -9,6 +9,10 @@ Docker-compose is a tool used to run Docker images from local machines. Docker-c
 
     Create a file called docker-compose.yml at the root of your project.
     Next, open your settings.py file and add 0.0.0.0 as a value of the ALLOWED_HOSTS since Docker runs on the host (0.0.0.0). The ALLOWS_HOSTS variable holds a list of domains/hosts that can access your application.
+    
+![img](https://user-images.githubusercontent.com/109805460/203532660-43950e46-fc9d-4663-bb0a-707b59ce12c0.png)
+
+
 
 # Step 3: Now, run each command below to build and run your Django container.
     
