@@ -23,4 +23,7 @@ Docker-compose is a tool used to run Docker images from local machines. Docker-c
 # Step 4: Finally, open your preferred web browser and navigate to url to run your API.
     
     url: http://0.0.0.0:8000/
+    
+ ![compose](https://user-images.githubusercontent.com/109805460/203534711-e1b7e02a-0e7e-42d6-a632-2ede8d163efb.png)
+
 
